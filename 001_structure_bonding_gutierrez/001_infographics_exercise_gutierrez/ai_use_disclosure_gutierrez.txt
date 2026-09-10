@@ -6,4 +6,4 @@ AI tool used: ChatGPT
 Purpose of AI use:
 ChatGPT was used to help brainstorm and organize information for the three organic compound infographics, improve wording, and explain the GitHub submission process.
 
-The chemistry, numerical data, safety information, structures, and references were reviewed and verified using credible scientific sources. The student remains responsible for the accuracy of the submitted work.
+The chemistry, numerical data, safety information, structures, and references were reviewed and verified using credible scientific sources.
