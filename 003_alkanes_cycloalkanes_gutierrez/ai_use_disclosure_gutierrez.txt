@@ -1,1 +1,13 @@
+AI Use Disclosure
 
+Tools Used
+
+The Alkane — Used as required by the activity to check IUPAC names and build and back-check molecular structures.
+
+The Alkane. (n.d.). The Alkane: IUPAC name generator [Web application]. Retrieved November 5, 2026, from https://thealkane.com/
+
+ChatGPT (OpenAI) — Used for learning support, including explaining IUPAC naming rules, reviewing naming trails, checking my understanding of structures, and improving the wording and organization of the activity cards.
+
+Declaration
+
+I understand that I am responsible for the accuracy of all names, structures, formulas, and explanations in my portfolio. I used the tools as learning support and reviewed the chemistry according to the rules discussed in the activity.
